@@ -1,0 +1,424 @@
+# Copyright (C) 2024 Cyberinfomatic
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Crypto Widget 0.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ultimate-crypto-widget\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-23T18:40:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: ultimate-crypto-widget\n"
+
+#. Plugin Name of the plugin
+#: ultimate-crypto-widget.php
+#: src/Controllers/Page.php:26
+msgid "Ultimate Crypto Widget"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: ultimate-crypto-widget.php
+msgid "https://ultimatecryptowidget.com"
+msgstr ""
+
+#. Description of the plugin
+#: ultimate-crypto-widget.php
+msgid "Crypto Currency Widget on the go!"
+msgstr ""
+
+#. Author of the plugin
+#: ultimate-crypto-widget.php
+msgid "Cyberinfomatic"
+msgstr ""
+
+#. Author URI of the plugin
+#: ultimate-crypto-widget.php
+msgid "https://cyberinfomatic.com"
+msgstr ""
+
+#: src/Controllers/Page.php:56
+msgid "UCW Widgets"
+msgstr ""
+
+#: src/Controllers/Page.php:63
+msgid "UCW Quick Widget"
+msgstr ""
+
+#: src/Controllers/Page.php:70
+msgid "Settings"
+msgstr ""
+
+#: src/Controllers/Page.php:171
+msgid "Page not found"
+msgstr ""
+
+#: src/Controllers/Settings.php:62
+msgid "Invalid security token"
+msgstr ""
+
+#: src/Controllers/Settings.php:66
+msgid "API Cache Cleared"
+msgstr ""
+
+#. translators: %1$s: Opening anchor tag with the Pro URL, %2$s: Closing anchor tag
+#: src/Controllers/Settings.php:108
+msgid "You are using the free version of this plugin. To get more features , consider %1$sUpgrading to Pro%2$s"
+msgstr ""
+
+#: src/Controllers/Settings.php:117
+msgid "You need to set your CoinGecko API Key in the %1$ssettings%2$s to use the plugin."
+msgstr ""
+
+#: src/Controllers/Settings.php:125
+msgid "You need to set your OpenExchangeRate API Key in the %1$ssettings%2$s to use the plugin."
+msgstr ""
+
+#: src/Controllers/View.php:24
+msgid "Success loading View => %s"
+msgstr ""
+
+#: src/Controllers/View.php:27
+msgid "No View Found for %s in %s"
+msgstr ""
+
+#: src/Controllers/View.php:39
+msgid "Trying to load React Component => %s/index"
+msgstr ""
+
+#: src/Controllers/View.php:57
+msgid "No React Component Found for %s in %s"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:118
+msgctxt "Post Type General Name"
+msgid "ucwp widgets"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:119
+msgctxt "Post Type Singular Name"
+msgid "ucwp widget"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:120
+msgid "ucwp widgets"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:121
+#: src/Controllers/WidgetPostType.php:151
+msgid "ucwp widget"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:122
+msgid "Item Archives"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:123
+msgid "Item Attributes"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:124
+msgid "Parent Item:"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:125
+msgid "All Items"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:126
+msgid "Add New Item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:127
+msgid "Add New"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:128
+msgid "New Item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:129
+msgid "Edit Item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:130
+msgid "Update Item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:131
+msgid "View Item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:132
+msgid "View Items"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:133
+msgid "Search Item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:134
+msgid "Not found"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:135
+msgid "Not found in Trash"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:136
+msgid "Featured Image"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:137
+msgid "Set featured image"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:138
+msgid "Remove featured image"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:139
+msgid "Use as featured image"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:141
+msgid "Uploaded to this item"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:142
+msgid "Items list"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:143
+msgid "Items list navigation"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:144
+msgid "Filter items list"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:152
+msgid "Get latest Crypto Widget on your wordpress app"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:192
+msgid "Invalid widget type, Select a valid widget type"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:196
+msgid "Get the pro version to use this widget"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:350
+msgid "Crypto Price Label"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:360
+msgid "Crypto Price Label (2)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:370
+msgid "Crypto Price Label (3)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:380
+msgid "Coin Marquee"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:390
+msgid "Coin Marquee (2)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:400
+msgid "Coin Marquee (3)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:411
+msgid "Crypto Price Table"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:421
+msgid "Crypto Price Table (2)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:431
+msgid "Crypto Date Change Table"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:441
+msgid "Price Slider Widget"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:451
+msgid "Price Slider Widget (2)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:461
+msgid "Historical Price Chart"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:471
+msgid "Multi Currencies Tab"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:518
+msgid "Invalid Widget ID (%s)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:532
+msgid "Widget Type"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:541
+msgid "No of Coins"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:560
+msgid "Orientation"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:563
+msgid "Horizontal"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:564
+msgid "Vertical"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:569
+msgid "Speed (ms)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:579
+msgid "Card Width (px)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:589
+msgid "Parent Width (px or %)"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:600
+msgid "Default Currency"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:606
+msgid "No of Days"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:617
+msgid "Data Interval"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:620
+msgid "Daily"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:625
+msgid "Search Placeholder"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:628
+msgid "Search Coin"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:633
+msgid "Coins"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:663
+msgid "Select Coins"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:668
+msgid "Currencies"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:687
+msgid "Select Currencies"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:694
+msgid "Dark Mode"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:698
+msgid "Off"
+msgstr ""
+
+#: src/Controllers/WidgetPostType.php:704
+msgid "On"
+msgstr ""
+
+#: src/Controllers/WidgetType.php:41
+msgid "Widget not found: %s"
+msgstr ""
+
+#: src/Controllers/WidgetType.php:45
+msgid "You need to be a pro user to use this widget: %s"
+msgstr ""
+
+#: src/Controllers/WidgetType.php:69
+#: src/Controllers/WidgetType.php:89
+msgid "Missing View Data param: %s"
+msgstr ""
+
+#: src/Helpers/APIHelper.php:65
+#: src/Helpers/APIHelper.php:72
+#: src/Helpers/APIHelper.php:81
+msgid "Error %s: %s"
+msgstr ""
+
+#: src/Helpers/APIHelper.php:134
+msgid "Invalid endpoint name"
+msgstr ""
+
+#: src/Helpers/APIHelper.php:139
+msgid "Invalid endpoint route"
+msgstr ""
+
+#: src/Helpers/APIHelper.php:165
+msgid "Using cached data for %s"
+msgstr ""
+
+#: src/Helpers/APIHelper.php:181
+msgid "Missing substitution value for %s"
+msgstr ""
+
+#: src/Views/admin/settings.php:11
+msgid "something went wrong"
+msgstr ""
+
+#: src/Views/admin/settings.php:12
+msgid "Something went wrong while loading the settings page. Please try again or update the plugin"
+msgstr ""
+
+#: src/Views/admin/settings.php:20
+msgid "ultimate crypto widget"
+msgstr ""
+
+#: src/Views/admin/settings.php:49
+msgid "save changes"
+msgstr ""
+
+#: src/Views/admin/settings.php:56
+msgid "coin gecko"
+msgstr ""
+
+#: src/Views/admin/settings.php:58
+msgid "API call count in the last 30 days: "
+msgstr ""
+
+#: src/Views/admin/settings.php:61
+msgid "clear api caches"
+msgstr ""
+
+#: ultimate-crypto-widget.php:34
+msgid "Ultimate Crypto Widget requires PHP 8.0 or higher to run."
+msgstr ""
+
+#: ultimate-crypto-widget.php:46
+msgid "Ultimate Crypto Widget requires WordPress 6.5.5 or higher to run."
+msgstr ""
